@@ -8,7 +8,7 @@
 <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 👨🏽‍💻 I’m currently an AI&DS Undergrad student at IIT affiliated with RGU
-- 🌱 I’m currently exploring AWS cloud services. 
+- 🌱 I’m currently exploring Azure cloud services. 
 - 🤔 My interest lies in Data Engineering and Machine Learning.
 - 📫 Email me at [chulan.shammi@gmail.com](mailto:chulan.shammi@gmail.com).
 
