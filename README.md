@@ -10,7 +10,7 @@
 - 👨🏽‍💻 I’m currently an AI&DS Undergrad student at IIT affiliated with RGU
 - 🌱 I’m currently exploring Azure cloud services. 
 - 🤔 My interest lies in Data Engineering and Machine Learning.
-- 📫 Email me at [chulan.shammi@gmail.com](mailto:chulan.shammi@gmail.com).
+- 📫 Email me at [chulan.shammi@gmail.com](mailto:chulan.shammi@gmail.com)
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> </h2>
 
